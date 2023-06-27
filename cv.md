@@ -1,2 +1,2 @@
 # Я МЕГА ЧЕЛ
-![MY PHOTO](cobra-tate-cobra.gif)
+<img src="cobra-tate-cobra.gif" width="200">

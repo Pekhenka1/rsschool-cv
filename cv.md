@@ -1,2 +1,2 @@
 # Я МЕГА ЧЕЛ
-<img src="cobra-tate-cobra.gif" width="200">
+<img src="cobra-tate-cobra.gif" width="500">
